@@ -6,7 +6,7 @@
       <class name="Tests.LoginTest">
         <methods>
           <include name="tearDown"/>
-          <include name="testvalidlogin"/>
+          <include name="testvalidlogin" invocation-numbers="0 1"/>
           <include name="setup"/>
         </methods>
       </class> <!-- Tests.LoginTest -->
